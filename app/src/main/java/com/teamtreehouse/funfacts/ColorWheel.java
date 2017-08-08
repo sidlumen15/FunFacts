@@ -21,6 +21,7 @@ public class ColorWheel {
             "#f092b0", // pink
             "#b7c0c7", // light gray
             "#8b4513"  // bronze
+            "#ddca8b"  // gold color
     };
 
     //Methods - Actions the object can take
